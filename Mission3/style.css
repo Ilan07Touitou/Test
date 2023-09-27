@@ -1,0 +1,51 @@
+body{
+	background-color: lightblue;
+}
+
+h1{
+	text-align: center;
+	color: green;
+	text-decoration: underline;
+}
+
+h4{
+	text-decoration: underline;
+}
+h5{
+	font-size: 20px;
+}
+
+.boutton_corrige {
+	margin-top: 10px;
+	background: blue;
+	border-radius: 5px;
+	color: white;
+	cursor:pointer;
+	padding:30px 30px;
+	transition: 0.5s;
+  	border-style: solid;
+
+}
+.boutton_effacage {
+	margin-top: 10px;
+	background: blue;
+	border-radius: 5px;
+	color: white;
+	cursor:pointer;
+	padding:30px 30px;
+	transition: 0.5s;
+  	border-style: solid;
+
+}
+a{
+	color: white; 
+	text-decoration: none;
+}
+
+.boutton_corrige:hover{
+	background-color: green; 
+}
+.boutton_effacage:hover{
+	background-color: red; 
+}
+
